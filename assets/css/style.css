@@ -105,17 +105,31 @@
         padding: 0.5em;
     }
 
-    .photos img {
+    /* .photos img {
         width: 33%;
         float: right;
         margin: rigth 0px;
         margin: bottom 30%;
         margin-top: 1;
 
+    } */
+
+    .fotoiguana1{
+        width: 278px;
+        height: 199px;
+    }
+    .fotoiguana2{
+        width: 307px;
+        padding-left: 7px;
+        padding-right: 7px;
+    }
+    .fotoiguana3{
+        width: 300px;
     }
 
     section.photos {
         background-color: black;
+        padding: 20px 0px 20px 185px;
 
     }
 
